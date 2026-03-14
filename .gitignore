@@ -1,18 +1,36 @@
-mods/*.jar
-mods/*.zip
-logs/
-saves/
-journeymap/
-xaero/
-XaeroWaypoints*
-local/
-downloads/
-tacz_backup/
-usercache.json
-usernamecache.json
-options.txt
-.curseclient
+# Игнорируем все JAR файлы (моды)
+*.jar
+
+# Игнорируем временные и локальные файлы лаунчера
+/logs/
+/saves/
+/screenshots/
+/resourcepacks/*
+/shaderpacks/*
+/backups/
+/.curseclient/
+/local/
+/usernamecache.json
+/usercache.json
+/options.txt
 minecraftinstance.json
-patchouli_books/
-patchouli_data.json
-schematics/
+
+# Исключения для packwiz (разрешаем метаданные)
+!/mods/*.pw.toml
+!/resourcepacks/*.pw.toml
+!/shaderpacks/*.pw.toml
+
+# Разрешаем конфиги
+!/config/**
+
+# Данные карт (локальные для каждого игрока)
+xaero/
+journeymap/
+
+# Бэкапы (они только место занимают)
+XaeroWaypoints_BACKUP240807/
+tacz_backup/
+
+# Если вдруг появятся логи или скриншоты
+logs/
+screenshots/
