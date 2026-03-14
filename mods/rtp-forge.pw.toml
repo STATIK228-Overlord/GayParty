@@ -1,0 +1,13 @@
+name = "RTP"
+filename = "rtp-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d302ae5e092d71a92bf90db028fabff424fd3acf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6805874
+project-id = 932427

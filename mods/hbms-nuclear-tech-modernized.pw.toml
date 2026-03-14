@@ -1,0 +1,13 @@
+name = "HBM's Nuclear Tech Modernized"
+filename = "hbm_m-0.1.2-alpha.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc5d278603501fb795e0e9b74eb6247f00bc3805"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7712380
+project-id = 1319588

@@ -14,6 +14,9 @@
 /usercache.json
 /options.txt
 minecraftinstance.json
+/tacz/
+patchouli_data.json
+user-prefs.json
 
 # Исключения для packwiz (разрешаем метаданные)
 !/mods/*.pw.toml
