@@ -1,5 +1,24 @@
+# Игнорируем логи и временные данные
+logs/
+debug/
+usercache.json
+usernamecache.json
+
+# Игнорируем локальные настройки игрока и карты
+options.txt
+optionsof.txt
 xaero/
+journeymap/
+
+# Игнорируем твои бэкапы (используем маску *, чтобы поймать всё сразу)
 XaeroWaypoints_BACKUP*/
 tacz_backup/
-logs/
-screenshots/
+backups/
+
+# Игнорируем папки Git (на всякий случай)
+.git/
+.gitignore
+.packwizignore
+
+# Если ты не хочешь, чтобы packwiz сам скачивал шейдеры/ресурспаки (а хочешь только через .pw.toml)
+# можно добавить и их, но обычно refresh сам понимает, если там лежат .pw.toml файлы.
