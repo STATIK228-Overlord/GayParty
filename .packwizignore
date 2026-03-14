@@ -27,3 +27,4 @@ tacz_backup/
 mods/*.jar
 resourcepacks/*.zip
 shaderpacks/*.zip
+shaderpacks/*.txt
