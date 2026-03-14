@@ -1,13 +1,47 @@
-logs/
+# minecraft worlds
 saves/
+
+# logs
+logs/
+
+# local launcher data
+local/
+
+# downloads
+downloads/
+
+# journeymap data
 journeymap/
+
+# xaero minimap data
 xaero/
 XaeroWaypoints*
-local/
+
+# backups
 tacz_backup/
 
-mods/*.jar
-
-options.txt
-usernamecache.json
+# player caches
 usercache.json
+usernamecache.json
+
+# client options
+options.txt
+
+# curseforge client files
+.curseclient
+minecraftinstance.json
+
+# patchouli generated data
+patchouli_books/
+patchouli_data.json
+
+# schematics
+schematics/
+
+# mod jars (packwiz downloads them automatically)
+mods/*.jar
+mods/*.zip
+
+# system files
+.DS_Store
+Thumbs.db
