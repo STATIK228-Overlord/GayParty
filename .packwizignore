@@ -1,24 +1,29 @@
-# Игнорируем логи и временные данные
-logs/
-debug/
-usercache.json
-usernamecache.json
-
-# Игнорируем локальные настройки игрока и карты
-options.txt
-optionsof.txt
-xaero/
-journeymap/
-
-# Игнорируем твои бэкапы (используем маску *, чтобы поймать всё сразу)
-XaeroWaypoints_BACKUP*/
-tacz_backup/
-backups/
-
-# Игнорируем папки Git (на всякий случай)
+# --- Системные и Git файлы ---
 .git/
 .gitignore
 .packwizignore
 
-# Если ты не хочешь, чтобы packwiz сам скачивал шейдеры/ресурспаки (а хочешь только через .pw.toml)
-# можно добавить и их, но обычно refresh сам понимает, если там лежат .pw.toml файлы.
+# --- Файлы лаунчера (CurseForge) ---
+minecraftinstance.json
+
+# --- Локальные данные игрока (у каждого должны быть свои) ---
+saves/
+logs/
+local/
+downloads/
+usercache.json
+usernamecache.json
+options.txt
+
+# --- Карты и вейпоинты (чтобы игроки не видели твою карту) ---
+journeymap/
+xaero/
+
+# --- Бэкапы (они только всё ломают) ---
+XaeroWaypoints_BACKUP*/
+tacz_backup/
+
+# --- Игнорируем тяжелые архивы (оставляем только .pw.toml) ---
+mods/*.jar
+resourcepacks/*.zip
+shaderpacks/*.zip
