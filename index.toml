@@ -1945,6 +1945,10 @@ file = "modernfix/structureCacheV1/paraglider_underground_horned_statue_e0223612
 hash = "4c8756cc75e494caafb44912d8ba0c7ad02a7f21a9bc169bd4d8d038a08bf6ae"
 
 [[files]]
+file = "modernfix/structureCacheV1/terralith_underground_old_refinery_8ddf79e31c.nbt"
+hash = "0a6aefaeedd7624f903681dc2c3537a07bcfaf7665895679df6b500f2e8f30df"
+
+[[files]]
 file = "modernfix/structureCacheV1/terralith_underground_smallminingoutpost_9f4d2d29ab.nbt"
 hash = "bd586bfdf8ff382c804faf79c9009a1cbf43167cb2d74a462cc4444417b9dd7e"
 
@@ -2472,10 +2476,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "2eb3e909cc46e39d8b9e762f39c36b0579744118d619beb6a174d264951d6248"
 metafile = true
-
-[[files]]
-file = "patchouli_data.json"
-hash = "0d6f8bff5d59d58e2ddda36b742394251afe308cb8cf96fac6c6c06144e28a15"
 
 [[files]]
 file = "tacz/tacz-pre.toml"
@@ -14236,7 +14236,3 @@ hash = "fd675c36ce192dec5d56e5d5e5dd8380deac32071007847a380d3e91e7e92472"
 [[files]]
 file = "tacz/tacz_default_gun/gunpack.meta.json"
 hash = "5419a196ae5d34b22b9209369cd70147ac889ed45facb46e527f35ad7633f8d7"
-
-[[files]]
-file = "user-prefs.json"
-hash = "cd118893f139b429d30429a3ee59ffe4439506db53e2a41fd32048739739fc52"

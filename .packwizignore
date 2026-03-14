@@ -28,3 +28,5 @@ mods/*.jar
 resourcepacks/*.zip
 shaderpacks/*.zip
 shaderpacks/*.txt
+patchouli_data.json
+user-prefs.json
