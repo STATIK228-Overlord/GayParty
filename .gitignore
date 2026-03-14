@@ -1,0 +1,13 @@
+logs/
+saves/
+journeymap/
+xaero/
+XaeroWaypoints*
+local/
+tacz_backup/
+
+mods/*.jar
+
+options.txt
+usernamecache.json
+usercache.json
