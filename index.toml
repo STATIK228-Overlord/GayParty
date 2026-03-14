@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "XaeroWaypoints_BACKUP240807/GayParty/config.txt"
-hash = "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc"
-
-[[files]]
 file = "config/Mekanism/client.toml"
 hash = "99d4b5334a83a68027b9de05dcb1cdc9971353592c9e016733be5927f563cb87"
 
@@ -1867,50 +1863,6 @@ hash = "a19d088435d6334295d34fcf23fd2bd181a071a637ceb37cfd0dfdfb32312c56"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "9f6d2fcc43681aae4fad2763b3e26c170d47473b92e66472a9dedb2725ddb4ba"
-
-[[files]]
-file = "config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_client.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
-
-[[files]]
-file = "config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
-
-[[files]]
-file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -4455,82 +4407,6 @@ hash = "753478e1cc6c40f3f241c1d2ce79a881918c9143819315968bbc713de85ad198"
 [[files]]
 file = "local/ftbultimine-client.snbt"
 hash = "98a7dc004bf5900a0879f4ffc6f1e0f33c7099a97484156cf281a00074e9355f"
-
-[[files]]
-file = "logs/2026-03-10-1.log.gz"
-hash = "2999eada45831468367a4f7cc982cd34283d6cce245bf64022ef9cf023c0b984"
-
-[[files]]
-file = "logs/2026-03-10-2.log.gz"
-hash = "99a022eb7bd9412b50163335091f800c950fdf9fa3c72732e4548386666ca3ad"
-
-[[files]]
-file = "logs/2026-03-11-1.log.gz"
-hash = "7b225b55dc59c1e450297f2c8f2d470b19329d3ff01cf7de782946e3d09b7ad2"
-
-[[files]]
-file = "logs/2026-03-11-2.log.gz"
-hash = "c7a6a66a5bcab42fec1288c69b64f8eeff5bb73e1b5356faae353456f67fa432"
-
-[[files]]
-file = "logs/2026-03-11-3.log.gz"
-hash = "e3efd8b051312012eb44316ac875b7b02e5df16745a93ab052fba8454c46809f"
-
-[[files]]
-file = "logs/2026-03-11-4.log.gz"
-hash = "282eb906602bc949e869839d3ef452d284e1e40495e9166c8c8d733b7d594d49"
-
-[[files]]
-file = "logs/2026-03-12-1.log.gz"
-hash = "bfb665f94dd5d4f1509b4302629c4ccd95fffb09e1ed9bba5ef83b7cd153bcda"
-
-[[files]]
-file = "logs/2026-03-12-2.log.gz"
-hash = "20195d27cdc5c5425a66ea5faa596ae54efd9fa9645d3a4578d4a61e0c02f3c5"
-
-[[files]]
-file = "logs/2026-03-14-1.log.gz"
-hash = "584ae79b65596283b8efbcf4e6d0e1fe54a6fb7745660e3d7bc13ea40dd2d7a3"
-
-[[files]]
-file = "logs/latest.log"
-hash = "26bf7a49b1a97f5e7ee1ecd760f8c5a424f340ad19a93b648406e361d89816d6"
-
-[[files]]
-file = "logs/stdout-logs.txt"
-hash = "3530793f93c8848b7db8186f974fc0097da2592a3c0d6fa4c0b0cc97e2479441"
-
-[[files]]
-file = "logs/telemetry/20260310-1.json.gz"
-hash = "4889714c5497a79a469d8dcbb6754061110e909f14343200b2906cb07c10705f"
-
-[[files]]
-file = "logs/telemetry/20260310-2.json.gz"
-hash = "8de566b10069cd9c57fac8df87bed3be26e35ccdf3a20defa8a81a07ea0c8e5c"
-
-[[files]]
-file = "logs/telemetry/20260311-1.json.gz"
-hash = "379f5c74019afc91e320302cf27a4a7e7055557dfa1e8585b800a5a0d8468596"
-
-[[files]]
-file = "logs/telemetry/20260311-2.json.gz"
-hash = "01ab46050da0ef0d1c16be5db36552459d5d0063376bc354b6b75f12f381ee52"
-
-[[files]]
-file = "logs/telemetry/20260311-3.json.gz"
-hash = "ffe15c6d872ae551edaa2ce4665e58076628cbde1f4d8b8f138bda82d43ab958"
-
-[[files]]
-file = "logs/telemetry/20260311-4.json.gz"
-hash = "e6eb21f24cc3c4ab6e93717ffc0930d2a3924db995b47eb56ab37ad080273c0c"
-
-[[files]]
-file = "logs/telemetry/20260312-1.json.gz"
-hash = "b68373490450b9f44d65bab200ef87022d7eb1226dcd2334a29110bc4922b3bd"
-
-[[files]]
-file = "logs/telemetry/20260312-2.json.gz"
-hash = "fdcf800d0e41dfaa223df0e1be309b9dfd71c1f824c14c0ec9b0c5eb169bd1a5"
 
 [[files]]
 file = "minecraftinstance.json"
@@ -7549,33 +7425,9 @@ file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
 hash = "24204f6f4ffae4a0a8d3030e7315fa870a433c022687a41a86f0a5e4b77cd5d1"
 
 [[files]]
-file = "tacz_backup/tacz_default_gun/backup-20260310-194110-c9211eb4c1d923ab052e498fe025f1d6.zip"
-hash = "44e47d1b5a8ffad7aec0d880747c2bbc21aaf6f35d81df1c3a2499b8bf1066f8"
-
-[[files]]
 file = "usercache.json"
 hash = "257559536538987457c06963c043c3e7dd7e02bb8ca1ffa03a6043c88ae38e67"
 
 [[files]]
 file = "usernamecache.json"
 hash = "96f4acd239365eb22287577e26b01a586b2d67d19f84c29647e0f963be5118ab"
-
-[[files]]
-file = "xaero/minimap/GayParty New/config.txt"
-hash = "da1cfcf00306e801d7a2adca77d731a8bf05c6d7783c2a901d61004207c26acd"
-
-[[files]]
-file = "xaero/minimap/GayParty New/dim%-1/waypoints.txt"
-hash = "663972001ceb7568c1432d87778a2f23c4dacf455917563631ab2671035b1b8e"
-
-[[files]]
-file = "xaero/minimap/GayParty New/dim%0/waypoints.txt"
-hash = "663972001ceb7568c1432d87778a2f23c4dacf455917563631ab2671035b1b8e"
-
-[[files]]
-file = "xaero/minimap/GayParty/config.txt"
-hash = "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc"
-
-[[files]]
-file = "xaero/minimap/GayParty/dim%0/waypoints.txt"
-hash = "5ef017c122c7084025be4088c75de9a337080f1683ea2f926c7cf266eef4e72b"
