@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".curseclient"
+hash = "20ffbcc28b22c3814382f1f44e50a1de31918cc25df7abbc486d3b98e499f35d"
+
+[[files]]
 file = "config/Mekanism/client.toml"
-hash = "99d4b5334a83a68027b9de05dcb1cdc9971353592c9e016733be5927f563cb87"
+hash = "cc3f7c776b176fe6a008bf47a89255d2540b19997c869a3f80cdf2ebd3cb1973"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -1282,7 +1286,7 @@ hash = "57247631f0428b515892290ce00491bd77f9813020be8aa57881be0df32ec75d"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "b2dc8aade504c0faca97090cd7f43a91ae8e9df40c257cd599ad99717f0095e7"
+hash = "2b2813d8d1e599efe9d4cb77bf7a2b6cb34fe460daedd1572540de41824193cf"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -1854,7 +1858,7 @@ hash = "a19d088435d6334295d34fcf23fd2bd181a071a637ceb37cfd0dfdfb32312c56"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "f899a0763341039fe03b6c90e6d2c3bf9d21a423503d6e9eff55537656f60e4b"
+hash = "738e3c735ecdc617195aa8bdad2d99474949e43aecbdd035300630b2b235efcb"
 
 [[files]]
 file = "config/xaerohud.txt"
@@ -1889,12 +1893,504 @@ file = "modernfix/structureCacheV1/alexscaves_underground_cabin_2_a3939a811d.nbt
 hash = "29c8e7a6f8952c74584ccd88394a34ad5a0846b161f1fb679f605cc07ff3a615"
 
 [[files]]
+file = "modernfix/structureCacheV1/apotheosis_boss_1_580fe3e5eb.nbt"
+hash = "06b70ce73b79fe730844263b3b2a7d066d859cf01c5e0f96726cb26a993110ee"
+
+[[files]]
+file = "modernfix/structureCacheV1/apotheosis_tower_leaf_38f64271ea.nbt"
+hash = "aa9a456e020090540377decdf91107bbae5a97d25d2ef04e57b3dda0951073bf"
+
+[[files]]
 file = "modernfix/structureCacheV1/apotheosis_tower_main_e389698d7b.nbt"
 hash = "bc43b1dcd512572531bee9f6161950e8c49dd3b010f536abeb2d9c09e3f1641f"
 
 [[files]]
+file = "modernfix/structureCacheV1/apotheosis_tower_sand_90c20e21ef.nbt"
+hash = "0afa083bb9047bf98f17e75bf78031578563d8fca94b2369ea7aa27833786630"
+
+[[files]]
+file = "modernfix/structureCacheV1/apotheosis_tower_spruce_deca62d14d.nbt"
+hash = "9ad32c77c79b01da89cdf861b1fe78c61279f37b966890aa1b1be1aa0a43c227"
+
+[[files]]
+file = "modernfix/structureCacheV1/ars_nouveau_wilden_den_bottom_823a6dcc23.nbt"
+hash = "eab5e35bf202e5f10da0e08910455b7029394a8715ad0e67dfd7dac828d28a56"
+
+[[files]]
+file = "modernfix/structureCacheV1/ars_nouveau_wilden_den_top_hunter_4df74b3332.nbt"
+hash = "ca2a545145fc9ead079188b339aaac4c7a72d021094eb218334326ea669589bb"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_0_cd59cca472.nbt"
+hash = "71125a6d4cd5d7e293b96ea6937e55b53c77fa49e619e4eb09f265413f89b452"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_1_fc7cf9b339.nbt"
+hash = "c6e34d6332c355e5a5ca45a098c3a01ae2ac48c4e088cce45738813dfbbb62b6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_road_entrance_05f8cd9492.nbt"
+hash = "a64e454857fa9c1a4582745d0f1ef8b4983789f188e6bf9c9c1f167fdb35c4fe"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_0_509ef07905.nbt"
+hash = "74b47a1451c74386c56871b114e8f110061768d721f7b686f9f391c1cb195995"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_1_e05cb017ec.nbt"
+hash = "ceb98c7ff60ac61a753b8bddc105965fd0c416a119d42cb44c43a1b96dffa860"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_0_3150906bac.nbt"
+hash = "90175256e9c5824f957fdcf4d553ccccf25896cf7e1b3e9c695cedef27e7ebeb"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_1_061faa8196.nbt"
+hash = "7a0dddeb04346e9b5f044e74714094f5a144b517a93f7216b52ee0df8e667d34"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_abandoned_temple_deco_2_4877d9540f.nbt"
+hash = "8223458c80dc93a6498b52c356833b995a7ca24772723ebe5f730c825567e59e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_illusioner_normal_0_6f23502f1c.nbt"
+hash = "f737bff809649ec03ee4e69cd2d1e829cc0ad79cca6a84c2ecf8476ff56691ec"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_0_0b114af481.nbt"
+hash = "9160ce69fc9bf024b025ac133ba99f49ab0db673ab171ad967825ac4748cc42c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_abandoned_temple_skeleton_armored_1_496ef0a3e5.nbt"
+hash = "ab4ffbafee1680280c92551034091e6470533d7eea96b939b249cd49e1dbed84"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_0_f4fd272fc0.nbt"
+hash = "2bbb4193aaefbde8b8a2c49bfa45d4120c5f933e953233c2954669aca0f579ec"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_1_bf1fe6d05f.nbt"
+hash = "1f77b5894641278c7ad40851b9274f4cfbca5157a8f08f050ea0603329cb1332"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_2_fef74d5a67.nbt"
+hash = "92692f2397532f43553d4db339db2d978c365d0f74e4b84f192fcb1ba3622b72"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_3_1fb1f3a011.nbt"
+hash = "c81458fc61735350a6cb5153c29bf2c49078f8b61b26dcd3b7b514fedc600d49"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_4_b659f3c982.nbt"
+hash = "6783478e0312ad7e9318e29e221d7e5e74928c1ba169812aa8be9af001ab9272"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_base_5_f51dae16c5.nbt"
+hash = "bbfd811790d525fd413c1ccf114a155d331551f5695959ea22c2ecd29c4ec5ef"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_0_d9aa0b9cab.nbt"
+hash = "2b7a35bb5fa088eab637b1169af8c2407497ddafde80a03889d100bdee7f4301"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_1_fe672689b2.nbt"
+hash = "0f6c1095368f5952b8b6efb73dea1f91b9eef253b7a150b67fa3c3b319c983c8"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_2_b4e6d6f8ad.nbt"
+hash = "94a51219dc2fa7628e28be577982b873f423e19f8295a69b86567ed1b0e49c7b"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_middle_3_baeffdbe67.nbt"
+hash = "1c43b1811b83f96fc50be64e939b8d9df4cf60276d39a651a44307afc1ea1757"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_0_b96961558d.nbt"
+hash = "9dedf5ec1970bcbb4f16700098de7cdd438c87c84f76947bc844649ab5395139"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_1_ab9d22b463.nbt"
+hash = "bdccb12b83f39e337bced8924cc1fb3de064868451a8e2f030e4f207faa2e7b3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_spawner_2_9d4e9f0575.nbt"
+hash = "be5a6a842d5e76c1c8914859e6922e5855a5504ca0905e4319a04abe6f6adfb0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_0_f130053121.nbt"
+hash = "4c9f78c973e2d6f8dea69f42d070fbc671c0a73bb2c6fab4cf0bbd45a74a1096"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_2_9e1c91ef32.nbt"
+hash = "9edb0928e513d5848d98ad95cf05408f9a005981041864fad9537afa8062f4f3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_3_87585b478e.nbt"
+hash = "2c0afb45167dabaa63092d499694f612a78284a7286153400674f6ef7337140c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_4_9a325c1c61.nbt"
+hash = "00f1c7782b8820185514caa099ce6526df84ada8e3b0c4a64a5b2fafb456e0eb"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_bathhouse_bathhouse_top_6_fc412bc441.nbt"
+hash = "d5512d51496f0e765190581004c2e8ce69f2146b8a9e2c7c6c94315d79ce28e1"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_main_8f26c2abd3.nbt"
+hash = "893b16e346be1e91ecd375e7beb2952272a6af1b97978bcff326f4feaafdac96"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_fishing_hut_fishing_hut_spawner_0_47995b7d45.nbt"
+hash = "dc4360e4799c9b7e3b421687e4522003e61022b3f26a8e3b5847c049b93082b5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_0_8fa188369b.nbt"
+hash = "d401cde9112e1bcefd7b21e8aa61d22abc8903d437a620036ac0391b5b08b644"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_0_4a213e4c41.nbt"
+hash = "a7426fd8c04fecf10bf720a2534cc478d4fa865c0f42e935db5c45cd61ef6ba9"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_10_66b860e9d6.nbt"
+hash = "762376c1043610b0bf054f44a6b0848910e6ee485e96297aa65a23463d1c6795"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_11_80176ec327.nbt"
+hash = "9b2f7c7201691cfb668e450fa18c86033544ccabbbd69cf73ae712381e5bd872"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_12_716f5e58e6.nbt"
+hash = "9673343e4a6924e3beaff29d519b18a414fb0373f27602670552c217a8318d11"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_13_b8d0f09189.nbt"
+hash = "d1d8145e6b7ac7aa706fac4ec8f973051269e0d2c7e78622122d67f6a8928f1b"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_14_ec9ed2ac37.nbt"
+hash = "ebf9001cccbea219eb75f361a44ae4246a35465e7b1c7623abab11e17c0f9dd6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_15_b1f752a880.nbt"
+hash = "6bd73b311097e2e5b4384093515d0cdfca0f127c309fcca54c6a3ef4081596a6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_16_051c697fdc.nbt"
+hash = "c122c24e7215162ffb945cb4a7087d4cee680a6a205dfcd2783858b74241b9bc"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_17_5cc8d79612.nbt"
+hash = "4495bd0f513cc7c56e08a2dceb69bd83d6a7d2b03d8e70686973dad73bbcce6c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_2_8dbe0413d8.nbt"
+hash = "bc5bc1bccbe85e221930bd427eff738504d47a219796e6320293aebea6dcbfd0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_3_fe5c6e9663.nbt"
+hash = "7eee760a088317560e848ff0cb5bf15cc553bda0c13965ae480b120432e9d843"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_4_ce3c2f5d34.nbt"
+hash = "ce171d943890a10b16448f1681fa785b9f0975203a8987a4a0857532266b2c5c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_5_ceb126469d.nbt"
+hash = "e7b8b649dcc3766b3f2ca681369e91e67e8e8f253fe5fc97e7d5d6e13c3c2e80"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_6_ec8f10d2dd.nbt"
+hash = "44cdbc2a7256779eaa87142c35d410650831298609c1f5a0cd58ed868f8adfef"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_7_8f4912ed91.nbt"
+hash = "114454b6a2438e4d705725f456b5affa300fbf36dfa9fa393748460833fb236a"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_8_9636bf03ae.nbt"
+hash = "35e0931c8472d32eae1c937ef0ace3d42a1ac8bc9383f28012cfa97fa435474a"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_furniture_9_16d1ede724.nbt"
+hash = "4831aa51ad8ec8f658a512a01fff696f6edf2131f8b9e9b444372c8539e90675"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_0_6aecc171c6.nbt"
+hash = "a35284373ee9e6e540210491005def6707a41caaba18c204b16b07ec81861449"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_2_5ccfcf7648.nbt"
+hash = "ff94f9595ade391cc8ca59871285ca9aa36e1e0ea370cb70c0a1c8fb269c4644"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_3_77ce20e83b.nbt"
+hash = "1a92a0f9e4124ac51587ca20e3c191d800de30c090ed8672d1a97e1ca4ce2cd3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_4_4a3462cc19.nbt"
+hash = "db25fd77cae085ec6ff48e985d49e74512262f6ff1f5dfa2287ae4ded48a03f7"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_5_00beef40df.nbt"
+hash = "0c432db57467f000f730e95517f091839d0b9770274548ab91303cd6ad2dc228"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_hallway_6_aa04001176.nbt"
+hash = "0a06f402d91819798f7f2a389682f117922a016fe36b78448b9435121a1ece56"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_room_0_21d73ab966.nbt"
+hash = "7e5be06621221d06ae83ef7327357af430739ee841432c140a9ca153c02878fd"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_room_1_81cbda8356.nbt"
+hash = "3abb5567918435e1687116dd3757b60a0bc320f0202f2ffde86806f37bf4f00f"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_room_2_0e773702df.nbt"
+hash = "2bcff28351994c630ae4edebe609f8a51d511669af2ffde44e61cc0745dd269c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_room_3_4a44fca0fd.nbt"
+hash = "9bc2722071c7625404ecfa501ba3c5db6e5fd74865d35bf121adc29cb3f6e3b2"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_room_4_5b19ff671c.nbt"
+hash = "9eb46e1c4afcf5feca0ba73327cd2a826d0acdf3f48d39a447eb55d47d48af91"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_spawner_0_57e4f86983.nbt"
+hash = "85be7c5356289f1056fee9a057bed9e319ebe9a64110b16692848434ca923533"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_spawner_1_6faba25515.nbt"
+hash = "757b5b86f3cd250365cee20c1b63ea7a3077a8dfcfc635603c1599a7624d80ac"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_stairs_0_a507bbc9cd.nbt"
+hash = "f5353be7b23d81b9d2be68fe9f76b15f4d5456f8b0c6cd68dac69c84a64e0bc6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_stairs_1_d5414a5011.nbt"
+hash = "563084df5dcc01eea01ba25fb55ab1d1838ac2502db1c39348222d432743de7e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_stairs_2_7591243f15.nbt"
+hash = "cbf13f0ebe67ef81cd3d0fb541e7262d7d74960a2507b1c25a78a61b8810fb43"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_greenwood_pub_greenwood_pub_terminator_0_92756234c7.nbt"
+hash = "35c5b9537def352a6b052529d979347f0a2bfa4692622aa6cfb9f85c64ac87e3"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_campsite_illager_campsite_street_6_main_95b2db72dc.nbt"
+hash = "05f787d1266fb6bdd5046709d7c7ce0b9f2f3d552fe9beebdf9753f581934831"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_evoker_0_57739cc8b2.nbt"
+hash = "c1faf89cd4b37b739ccaa137002f2b48ab1d4c03e74e5d670fbcb26a5f34be8e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_part_0_0ffa0ef9ae.nbt"
+hash = "9c0b124f5aba3f2a8a8b31050a155ca8e3cd00fdb69a42dc2d9ad8f9c5632379"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_part_1_9ef801b145.nbt"
+hash = "ae68f3e762a0323c9d5e50f7d3ef6ca07410c61a06e33b6645ee0f462e608857"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_pillager_0_6eff5031ef.nbt"
+hash = "beef78200061f1e5b34f4a7e60939c94d4762c0e1120c0b56cfb42509210f2e6"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_corsair_illager_corsair_vindicator_spawner_0_227df976f5.nbt"
+hash = "d4b5261b4d8b31b429a507f29da6de9df9ad230f96776350e59cf606684850b1"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_evoker_0_065c8a2f11.nbt"
+hash = "f241a94139e146b56f43aa3019e5bae6bc0c2cfde710b1dec9ba34ba628b844e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_illusioner_0_5b57aaa9c5.nbt"
+hash = "2da7f799ca354dcd06f34b113684192a08fc8096f6dcdd043e813c78223aa24c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_0_ddfd5f5b30.nbt"
+hash = "6bfbd9fb14331c19b3b40660573760a6fec29ce247511977e76772e675c7e567"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_1_caea454d4d.nbt"
+hash = "04322d5863626a291492051912a0d0f9d8ad1d32bec19f96b79d8bbb94bf97ad"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_2_674404d5ca.nbt"
+hash = "f7a2ba1ba9b49caac123b0a7bd79a03c6d8c0e5d9f67ceb47c5e895c2ec2e4c0"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_3_05fc48174c.nbt"
+hash = "1bf6ceaec7e24b63ca7efd7ef2b0e56d16e83b0d30982698ee60647001f593b5"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_4_88b6ea1860.nbt"
+hash = "ae74b2ff0cb51ff513f9bdcc12ff775a22eeb53be6181aa5e4d56eaa9287ff74"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_5_b4a009e2ee.nbt"
+hash = "841bafefde7c96b89f82295ec17faba49af6b2dfe19aec8588067a67794a7a04"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_6_a7c6aed6a8.nbt"
+hash = "46debc6902a49160fc4aeff8d5a9d622a7161efecb37c1d6031a0388e38736a9"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_part_7_5b1070104d.nbt"
+hash = "854c7f049c81427c44f9c82fe0751dd4994143190b82506885f2ec316e6f2426"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_pillager_0_9a87990870.nbt"
+hash = "17c003373610906338bc08d2dfcf2ed5a747e7f0ce1c0c8c5562bbedecba1ee2"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_0_b5a6afa3de.nbt"
+hash = "f00efbb669d2a039077ff6b2fc95a07317458ebf0bd11361956718c82614ff53"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_1_19f9f148f5.nbt"
+hash = "534df3d15e1cf5560367fed712c3cae821dbc9fbea5bba697ded3fb7b900e655"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_2_cd285488ce.nbt"
+hash = "d7dcd363ac27e60caa2dd08e6caf87bbf43cba4a994c01f04d4effff05d5a204"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_3_35cff33637.nbt"
+hash = "fd72681e97e524ce872d5e30820e4473e520403193e88802b93c5aabddfaf668"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_4_3861569503.nbt"
+hash = "0f8c728e0927c95f4227a31e987f3abe38f1618e30e1f4a5d68ea067289ff4de"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_6_3903ddc52c.nbt"
+hash = "9767ee298658d2e45719eda1aba4b8140fd9abd5afefbbf135c4350509be2164"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_7_cfa57d7b98.nbt"
+hash = "1101e7eb5ed73789337ecd8cfa8149a6c5a41e1a337ab3b69d28b918a00a3fbb"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_room_8_682efbcbba.nbt"
+hash = "3d4138fff87126e7e4712c6f8e704727d04720f90d5ae317325da03b46083397"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_illager_fort_illager_fort_vindicator_0_5519080555.nbt"
+hash = "9b131a4e3d77f07ea3f57441ee97e14766955d956c247a436384d4fda29502ff"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_0_main_fdaaae3527.nbt"
+hash = "bab9bf8282c443f803ce53bfe26ae9c7df48958c2111c17de1764d913c4baf2c"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_jungle_tree_house_jungle_tree_house_1_roots_1fcf0be772.nbt"
+hash = "8184533b94a7c3fcadb812ccabbb1ccfa833b7cdec9d64d7a779b9602aafa283"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_lighthouse_lighthouse_part_1_f33348679c.nbt"
+hash = "a783e067e5bb280d4e0ce3e9297b62bc7e936ec4bcec504382705e486fef0961"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_merchant_campsite_merchant_campsite_street_4_main_cccebbf668.nbt"
+hash = "6bd673622843a285e94b72f7250d6f70f624787af92b83c1389f7789d6155410"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_mushroom_house_mushroom_house_bottom_2_6d894f474b.nbt"
+hash = "5cb862ff73c08f153f61da9be26e0e8ba5ce445333f7074cdb7fc68f3b278187"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_small_blimp_small_blimp_ladders_0_11164b7151.nbt"
+hash = "c7d1feebc51ee11471fdb61e9d2e2cf02d9abccc0953cfac390dda6c38690636"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_typhon_typhon_part_0_ef5ad598b7.nbt"
+hash = "21245b5a08016ce0af0c57704e28b445c6c65ab33527c33571e1ee2b184ae819"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_typhon_typhon_part_1_b7db42b337.nbt"
+hash = "60d539d324b058feb15afd3d6671fda9ef18831962a77c55222f60c3732cafa4"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_typhon_typhon_part_2_3a84eed6b6.nbt"
+hash = "3dce927001af0a79a8f1b16aa4e9d6d426453ef5bf951472681f1cb2a9f608aa"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_captain_0_c7f790a5d8.nbt"
+hash = "63220c1c985c549a10f0f7b8fc170a38fe64f8952e919bfe33b47cabd69b4755"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_dolphin_rider_0_1f9b876cb6.nbt"
+hash = "e093e4e5f5126fe71f11520dbb3d512fc18040bc39d00f1d8cda5aa1deee5f96"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_part_0_ba25d48fb6.nbt"
+hash = "2169d98079bea58d02ec8e362e3b784a1e865fab5e50c65025b6c830bfc40d64"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_part_1_37ef6f4972.nbt"
+hash = "1b9786aa1ded50775688310cee0b3f0d95d35d8893cc2aa3542ed30e96773859"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_ranged_skeleton_0_61d29d193d.nbt"
+hash = "abf62b7cd55dba696f768860e0cf19695f31628341d003cc1bf7ba2186b5ae6e"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_undead_pirate_ship_undead_pirate_ship_skeleton_juggernaut_0_8c2947b654.nbt"
+hash = "d5bb21b9475ab3de7adc84cbba8dcb08324a0a09abb859abfb5b3e6138727b01"
+
+[[files]]
+file = "modernfix/structureCacheV1/dungeons_arise_wishing_well_wishing_well_0_36e5928c5f.nbt"
+hash = "d9b2d043f8a62a9454aeac6016f712ace5bd2ea706076ea036a521c6ebf9cdff"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_library_ruins_0_7a00da4e03.nbt"
+hash = "2ceb3d5b062ae6c7e79601453d63913066ac97524ee6784883f0bd9044830420"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_library_ruins_1_8b5be6f6d1.nbt"
+hash = "46dbf20c68827f079fa2bf758d150812cae2ce4fa72ce5afd902eea82ed333de"
+
+[[files]]
 file = "modernfix/structureCacheV1/ebwizardry_library_ruins_2_347f913c7d.nbt"
 hash = "0cb40da0a2ede658b8f8691b62d886a195f4b7a8029b906681b0fb6016c03c36"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_library_ruins_3_3114752e91.nbt"
+hash = "c68440f54cfd04b6945364f67ad169b03835fd8877892aa6c1b407eb4296f928"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_0_4525ad3f44.nbt"
+hash = "9798ae770fff861aeebd649cf6d73bf959b1bd9b9ea8345588ce7941ab285d3a"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_1_3b33c9d0eb.nbt"
+hash = "33f8d0c03c1cc91f0505c41c3eda69aceddc0cfad932804dcdb922c386cf3049"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_2_7487ffd413.nbt"
+hash = "ca5da0fa835e149688e04f7e63c2fcacb9532bbe860d0960ac535a8352076c84"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_4_01ad24d6e0.nbt"
+hash = "e3a9ea4e86fb8e8b54333125a18810b53345f1ac7f61f75aed716bf5cc514484"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_5_b9bce22f6a.nbt"
+hash = "194fa21f3db6170b3743091e0a0890580265f4616153cfd500c2bc0148c5fb8c"
+
+[[files]]
+file = "modernfix/structureCacheV1/ebwizardry_shrine_6_910d3dcca4.nbt"
+hash = "676326bed50a14e686fdbdf3c766f0d8aafdec6924101f748afe33c1a115377e"
 
 [[files]]
 file = "modernfix/structureCacheV1/ebwizardry_shrine_7_01e82f1682.nbt"
@@ -1903,6 +2399,10 @@ hash = "1b7bdde77a0d544963209deb65b0a2df8a6d371afcd94808acb099ac1ffe5cec"
 [[files]]
 file = "modernfix/structureCacheV1/ebwizardry_wizard_tower_0_e2ddda667d.nbt"
 hash = "5bccdebfe65ee37b8661bc33ad19235c6cbdf29ea5b420a5227cb40bdcbaa0f8"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_other_desert_temple_mimic_pyramid_main_893f05da9c.nbt"
+hash = "fb8e65e103bb4c37c31b4c1f24c3a745c652c8d30f1a8fd5a49463aee2570d04"
 
 [[files]]
 file = "modernfix/structureCacheV1/kaisyn_outpost_pillagers_outpost_captain_71bd1825ea.nbt"
@@ -1921,6 +2421,426 @@ file = "modernfix/structureCacheV1/kaisyn_outpost_towers_sunflower_plains_base_p
 hash = "7df2fd3a6fdf7c968c0dd718d1195aac203e519517f721da96a8123df76fa6e4"
 
 [[files]]
+file = "modernfix/structureCacheV1/kaisyn_ships_village_ocean_base_plate_0f79c597cd.nbt"
+hash = "b116c20563dae0cf80f673b6176eac1906d36dd08b1b7336367dd965694d534b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_ships_wreckage_ocean_wreckage_1_feaff3a20f.nbt"
+hash = "fcd7a95626ecdf6223e93c68642f7886df8b65b3d2e0645d806ef6f04bd56177"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_badlands_pueblo_town_centers_badlands_meeting_point_1_0991d1e84c.nbt"
+hash = "c1084003aa3bac0d8f6ce741dada174626d3f5993f81182f843bc285853e87e7"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_beach_lighthouse_town_centers_beach_meeting_point_1_ead480a8b3.nbt"
+hash = "d463cede4d701f871742e38547b2afdfe24d524eee5c8bfd58da9d1eb0b6ab71"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_birch_forest_romanian_town_centers_birch_forest_meeting_point_1_0427c71613.nbt"
+hash = "2ab31714e1b24211c66e2b02883d0acabaccac7a0f8a89067743ca963861cdeb"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_exclusives_iberian_town_centers_iberian_meeting_point_1_57340acae3.nbt"
+hash = "f91f68f51bdfa0d34804b46f02ec76823f30e01938ea8c70e28f5a64b8d180f8"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_exclusives_nilotic_base_plate_0ec67d34eb.nbt"
+hash = "dedb11da6ad110d306ef1a6b10777302e2083b30a6bf6b41c8f5f8e057101e96"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_exclusives_swedish_town_centers_swedish_meeting_point_1_38013d369c.nbt"
+hash = "89d8dc4f0cd541f474338ba73aaad397948ccdc5b80a2910f5e0f2bf4f78f498"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_exclusives_tudor_town_centers_tudor_meeting_point_1_0b4ad78f49.nbt"
+hash = "afe1ec54c2331dfe1ab998e045d1697f92fb957b013e3e163a2f7236dad600af"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_exclusives_wandering_trader_camp_town_centers_trader_meeting_point_1_1853b4124f.nbt"
+hash = "10169b0655134133c01a5ad7682c21f6dd3fefb03308c821693b85e3ae8cf9b4"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_flower_forest_gate_1_51165ef2fb.nbt"
+hash = "5f738a365cd3554f89d85bd92014fb96511e708f8eff1ec161874682847097bd"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_flower_forest_gate_2_7d271a8ca4.nbt"
+hash = "bbb640a7b8565a3630719a8eb10ece07261df336543240194fd8fdbb68192035"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_flower_forest_lamp_1_026d72b603.nbt"
+hash = "4ec180ac29ff2fbb399b52a9adbeac473b11d26e5a519b2bccb171e1cf46032f"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_flower_forest_planter_1_dc86e772f2.nbt"
+hash = "bb7008c41c27eb343c9a7b942b1d79f2467291685e35159ff100cc828913500c"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_animal_pen_1_b68a159873.nbt"
+hash = "879cac79591d6aa4272e31ec3bae1a18a4969a7781a0357c7be73979a6cc51d4"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_animal_pen_2_92b7f82836.nbt"
+hash = "09e5208daecc02279c9b6bef67158543ddd1762337bb395cf76ed37859746b78"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_animal_pen_3_0db650b00c.nbt"
+hash = "6cca020af1adb9a4f21e195466f134b17946a18dc38d781b6c827733f23e28bd"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_medium_house_1_4681558d3a.nbt"
+hash = "a0864a12b0c091b16901504452991e7428d0292c4b99d4facd033fc85027b9c9"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_small_farm_1_f909488f98.nbt"
+hash = "057468fb7b8d0534e74fd1be5f6da5f717be13c361f7f6f5453be9fa38fb1aa8"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_small_house_1_b9e31983aa.nbt"
+hash = "4369df7e9c08b6d241afce41e7dc1d25d0230e746dc0063bd697a14261eb873b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_small_house_3_96f4341677.nbt"
+hash = "881e7edc13a6824d93933ffb37f826370b4781b30b2aa4fe5314ca27f6354179"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_houses_flower_forest_small_house_6_100976b2d2.nbt"
+hash = "d47785111e6278c09df28e289d60364a2935c3022bf057912ac1c6bfe9aa9a08"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_corner_01_61429d351d.nbt"
+hash = "243b77874d9eda5c1baa9b21ac39a34cb626be953169f892a7491f6e7f4db518"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_corner_02_cb45b72fc8.nbt"
+hash = "9c6797e8b5d77485687996cea64c7ddc8ca7f82d3eabbc2b9c19aa58f5ccdb79"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_corner_03_294949273c.nbt"
+hash = "01934e2e1ac5bc1983ae7d3b01167d326efbfa02d7e65e0c67d16af2af705934"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_crossroad_02_629af161ef.nbt"
+hash = "37719f56a1dc181c7e32acef1254887ab3b129cbb386eb338f8e16eb6d6ad153"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_crossroad_04_6320e4c85e.nbt"
+hash = "2cb8f0849a2dde27e578943bf1582be0b1146103a7a1de469f032c4efb1a879d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_crossroad_05_19f7fe18bb.nbt"
+hash = "f2bf2988b65b71849bc8e3e57500edf66c6017c294bba345eed680d25fbd4967"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_straight_02_e43f9fbc19.nbt"
+hash = "33a078c4fa6e8d2169657e2b9d5d2a0a9a01e6a7afedf0b55576eb0bd750a3c7"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_straight_03_e1ab84b3a9.nbt"
+hash = "96560037e73cf615a51623bfb22e4646a1f1709e4628dc250b7e4b2c323cab7a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_straight_04_f4ab82fd1b.nbt"
+hash = "ef40c8fcb1a52f924e2aaee1eff60d4db049494a465ea4dff4d51f559abc0ce8"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_straight_05_e81efaeeed.nbt"
+hash = "e7d8a3b8a065ee02445be85c09fa65d0d029895b3f3b218afe6df789f16fb32d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_straight_06_6802a99ee4.nbt"
+hash = "700adc8a463f415c2cc01bb0dba8141a605a08345f5fdc8726d3164f23968c73"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_streets_turn_01_dccfc0ee93.nbt"
+hash = "8221f498961766aa66b05ffd59bf25f1d31e728a891a5f2154d5eeb31c0dcfda"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_terminators_terminator_01_2d68769127.nbt"
+hash = "be7821b2622f0b8397a7ef17ea4f533627d31b0cfe7e5f26fa31c7e152b012eb"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_terminators_terminator_02_9b7c8d36a6.nbt"
+hash = "8af84c8b7dd2278fa39ce966f526413f541a1955cd5c962a9f86b662642c5df8"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_terminators_terminator_03_c08d3e6393.nbt"
+hash = "fbd1404fa974d7946fe394eae796f7dc88a56eddc963bfcb115dec2edcc30acb"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_terminators_terminator_04_89b17f79bb.nbt"
+hash = "8d2e865f867aee9a6c4a2c31ce4595abfb7e328ca926341f9429d04d070f973a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_town_centers_flower_forest_meeting_point_1_4ddbe58f43.nbt"
+hash = "f9cb1dc5503ccbd0c36dafdca87c7e967f9a83bd97a52be7c96530baaba2b8f4"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_flower_forest_japanese_town_centers_flower_forest_meeting_point_2_99a73071c9.nbt"
+hash = "bdd572648dee406e311883d04947c19afc98e27aaebdee9254aa3a0a49167f0d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_animal_pen_1_32f803e799.nbt"
+hash = "90c45e32988c5fd0a92a5bdf4be5aa2bed8011bfaf124420feb65a7b99642db4"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_animal_pen_2_78ad724477.nbt"
+hash = "d4231cf489acf77ccc7ccd24941d4d959772866fe66a6e60d398379613786874"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_animal_pen_3_f8894c308f.nbt"
+hash = "1853b4052c1325e5b5ddd47b44ece244ba94ec52e632c499477407b823c8c305"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_armorer_1_2381706c59.nbt"
+hash = "9078120a5f637822ceb7069e6da5a6408b8a74c27f668f579d97f9f8127c4837"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_butcher_1_b04f33f5b4.nbt"
+hash = "2c5c969720a10c858d401d1756009ced38f0cd413e84e57760a9f230b7609f29"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_butcher_2_caf29ecf6e.nbt"
+hash = "94fb2cdb413919b1f7bf19bea1ff6ec2183a050a25e52b31b1b4b1c37fd33585"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_cartographer_1_3034ae665c.nbt"
+hash = "c74aff1cc5553c6f7831f7dd97c1d5eae7fee231bf6066037a810b3f9404a7d1"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_fisher_1_3a600195fd.nbt"
+hash = "49d458f2c80b0aae5a0a77299b68ebef86a3976212b6b8367db3d82472ee5184"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_fletcher_1_fc2eced2e8.nbt"
+hash = "6e8695e0784bb01a90bb26d116208d4a0919cc9f3bf577128406bb55622b245c"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_large_farm_1_3f2585dcf0.nbt"
+hash = "23fe2251bff4ca2e7498329965a81b099592e02f03fdbf47fa4334d3baac1c8d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_large_house_1_c7c98ac01c.nbt"
+hash = "1a55c2b6b7d91e10a14bb1b10492fb22a156a05309563937171652013fc6e56e"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_leatherworker_1_549a1ebcfb.nbt"
+hash = "bfed999e9c7482eb86efe5348813c5e8d951c95fdef0923bd35bbd784c76b58e"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_library_1_356a12c502.nbt"
+hash = "85c738964c50a1d8048bb893fe069b161caf9c780e076f8c540e3bbab3b5374d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_mason_1_95e81b3563.nbt"
+hash = "aab1b8c6e130764060bd30630df98120559f8ad3aee5ca6ec1d89c9a69bc0f9b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_medium_house_1_acc927bf17.nbt"
+hash = "3d62ea45da108e915da6a11b0d5bdbe3461733c6114e33a51e16ba618bbc7422"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_medium_house_2_e08680771a.nbt"
+hash = "b105917f5a76d7e47a369a29a7e198b016e9617f5ea1f39a28ffb61c2edb6541"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_shepherd_1_e810cddf8a.nbt"
+hash = "2a922bb7719c9318b6eff82ce73c98fa1c49e8630033a794bf762209981c0227"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_farm_1_fc496ab6f1.nbt"
+hash = "7139186f163675711b831dfe599b13fcef09c8372e797a4728bcd736f6941231"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_1_4d4efb327c.nbt"
+hash = "456bd5ce66f53b5d0eb6f375bb321d2e4327e24a404e57d661f9158d3e62f87c"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_2_6289244cc9.nbt"
+hash = "720d4e7d4661e193c8356391c53eaae3441268be9ab8000888de93a37df8f4d9"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_3_a89481b982.nbt"
+hash = "d34a4fba3448642bd49140ca51c360f0eeb5bd57d668828ce69ac0519ae625a6"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_4_52eb3d5023.nbt"
+hash = "c806fe8d8f6df6dfec97ec72f81e5ca47a602d1b6ebf923dbc63e96662537ff1"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_5_851d9365fd.nbt"
+hash = "3d61008828dbcb98605d38462203a77fac80d8f937230e2b269c945d2916ed18"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_6_c93dccc0ec.nbt"
+hash = "79b456c4347184243ccaad709897812e1f73a2156ce1ed6fb7e110002c4d7ca6"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_7_2fd6511a62.nbt"
+hash = "8ca2f9d6155ab167a2c85900fa8d55ff0a016ea7c7bdf32a4ad0294ee74cca89"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_small_house_8_2669b36bd2.nbt"
+hash = "31cb9aa787ff4596c3ff43e424f199477ef04e8d666ffe2b190d48a7a62cf862"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_stable_1_f21e1f8d15.nbt"
+hash = "a7dcced62cbb8b3dea0c90f7dd736be38d05d37c80943bc516a4b9be295cf600"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_temple_1_54980582dc.nbt"
+hash = "abd9bc4ac44d818f379954ffc5deddb1f223ddf6dcbb0d802aa5ef3929295425"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_toolsmith_1_47da2c8765.nbt"
+hash = "dd3d1f24e3a6c41613d7e95337840a38f63f36b66ffba989556bb85563d5c750"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_houses_forest_weaponsmith_1_7a4746f95a.nbt"
+hash = "ab0e66c142701d0bc645d6cba7621012bbfab487d6069a6662389bf643b20830"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_corner_01_9dd4379906.nbt"
+hash = "66e789c90f19cf23b836664b4067e77429e2829dc9de1f1259425b554498b54a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_corner_02_478284d9f3.nbt"
+hash = "784e7f8012532a748327fa00f1bc79c5722efdb653f9716db2d5b2eecafd56b7"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_corner_03_ac2fec8a94.nbt"
+hash = "e535e057c9f8f3b1c8c616e686ae7bc18c2ddc222983132cffc31025e092ff7b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_01_ae5e138e84.nbt"
+hash = "b330cb50f824ccd3ee82fe70cc0c1b0c525a72b0830ae211165b9ab9d13bb93d"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_02_bb32f69502.nbt"
+hash = "bf0583929d086cfd438fe6eb59344069c1d1bbbe7b26220ee73ca4c4d6de5e10"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_03_09967fdda4.nbt"
+hash = "a12e31a32e7432de11544b8a7d04a2601c5f5168af0a14a93114c33bc81e9d00"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_04_c00454e134.nbt"
+hash = "de9f840bc12cad0695986cdfc2bea2b8bbbe4b6b427668830fd7d049ff97cb4e"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_05_9d84ba6d15.nbt"
+hash = "f01f40edb4ae7d028ae09c41dc9b7aaad73c66fdb3dd1a8de06bd3aa36ed02fe"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_crossroad_06_35b7e37c50.nbt"
+hash = "491f02cd3eaf5c9cd5cdf06b0cee60a559c17b85f099160cd28a3dc4e1ed96f1"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_01_c4a8f8acee.nbt"
+hash = "b882c9882d598d040445721c639dc6104256cff88bb80d321cf80271acdc534a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_02_3587891c66.nbt"
+hash = "6fe01682c2fa2aadbe096302b26a3b21a6b5d32a49a7b5bd2864bf29cae16538"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_03_246ae1b221.nbt"
+hash = "9234b688c8605382dfdc87e5104376724f51c7806e1135012de9b2bcc7a4a816"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_04_91f8efeaa6.nbt"
+hash = "8916273ce1e9e87de58c65dc02be9cd4111d779c0e0fd9d169c6349d069b9d1a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_05_fe8ff354be.nbt"
+hash = "690e348e7b69ea12e50e4e902ebd00d2c02f8d02d90d7b8df4ea91464695af59"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_straight_06_cf41c6b08d.nbt"
+hash = "46b1686e2ee24d04181bd650a1b06e47ca71d33d517f1cc61bbf909d4251cbd9"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_streets_turn_01_800cc1037c.nbt"
+hash = "61d2a2a607c2ec67380c3dae2d47117a0bd629168f1b82e5bb78563cd1add011"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_terminators_terminator_01_0eee05857d.nbt"
+hash = "019a0ace563a41fb034c5be5a0757fe43f807a55672b4367c84e249b1900faa0"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_terminators_terminator_02_1ebea8069c.nbt"
+hash = "c237b6248aa0bcd37bccf57f7d6d94f3cb67d652f373546c1a7cbdea8a323066"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_terminators_terminator_03_5dad30ef2e.nbt"
+hash = "340d18230ba33f005b6e756d870e4d443b03aa641d6db57fe85a2386f03ea845"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_terminators_terminator_04_06f14031f4.nbt"
+hash = "c8f9b78ac441a5c2520056c048771d118219b868f16a44412383253c7c2eb083"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_forest_ruins_town_centers_forest_meeting_point_1_55f9831fdf.nbt"
+hash = "2597811dfec70038696f7caee61340f0e4548bb449378bd30538ede4f3465c1a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_grove_villager_outpost_grove_table_1_5fd5f72039.nbt"
+hash = "5203141ed28801f1daf37d4fbdd74d1f8d7439dc23f3db7af262dca80ea4e167"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_grove_villager_outpost_town_centers_grove_meeting_point_1_a331015a4a.nbt"
+hash = "7a80a581ef4b01532a3999dbc3ef9ac4e45cf5f78666c8e3ea368636cb13b982"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_jungle_tribal_town_centers_jungle_meeting_point_1_2b16166647.nbt"
+hash = "fdc538eedea4a83e755b363ec12b0486d30651e66525380df93a1364a88a2641"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_meadow_swiss_town_centers_meadow_meeting_point_1_711b48458b.nbt"
+hash = "f89221544ee1e4d1d5682dc335dd7163bab303c6b717b5242a6a858d609537ab"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_modded_waystones_waystone_default_3318b7c0e9.nbt"
+hash = "acff82cce20d1df4b38a46b2a5e37b3737f2501fd7228b4bc8b21a2cfa811084"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_mushroom_fields_fantasy_town_centers_mushroom_meeting_point_1_a4d3382475.nbt"
+hash = "6e9b243e6007cfbe51ff1ed6359586420fd91baf7af0ae26813ef39cf8739874"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_old_growth_taiga_polish_town_centers_old_growth_taiga_meeting_point_1_d23bc6b66e.nbt"
+hash = "88d53918e8899c1b51d0658baad7a06e46c26a458374d98d222e78ceb79c4a09"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_snowy_slopes_inn_town_centers_snowy_slopes_meeting_point_1_86e83b5d05.nbt"
+hash = "f9a2088493108f5546e14a433574d5577f44f2b5a86c83a76f2472b5c42abeee"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_snowy_taiga_viking_town_centers_snowy_taiga_meeting_point_1_aeb17bfd4c.nbt"
+hash = "a57689756536417164e0cbf5a875b573ae712ece9b92e81acecf156ec184fd5c"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sparse_jungle_polynesian_town_centers_sparse_jungle_meeting_point_1_4954e761dd.nbt"
+hash = "32fce59737b71ee0b63f76428918a0b7ed56a9c3bc797c6714253cabbdec562b"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_sunflower_plains_farm_town_centers_sunflower_plains_meeting_point_1_f6b2f348cf.nbt"
+hash = "e8e249635e7b540766fdeaacaf5bf18e185b1acf28eedeff25cb2c5446ab774a"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_swamp_boat_town_centers_swamp_b_meeting_point_1_c659a6b80c.nbt"
+hash = "f3fc3439e46cb607a93fde97fa2f9fbdc102862c94ea4e41c6f9ee6833c304ca"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_town_centers_wooded_badlands_meeting_point_1_005119925e.nbt"
+hash = "e436baa5c2e86a550d5dcc017c111948e1ad8bc90f60a5d79150deae22eece30"
+
+[[files]]
+file = "modernfix/structureCacheV1/kaisyn_village_wooded_badlands_tipi_town_centers_wooded_badlands_meeting_point_3_59a9a0d79a.nbt"
+hash = "d4840bc2fff890ea6ea958662efe27b56eaeb0368fc9d6110baa16ec78f60b75"
+
+[[files]]
 file = "modernfix/structureCacheV1/mowziesmobs_wroughtnaut_chamber_cd6bf85741.nbt"
 hash = "ecd5278687ea9bf816455552ee2fc2dfa56169453bea62e73752c6aaa78f82ae"
 
@@ -1933,6 +2853,14 @@ file = "modernfix/structureCacheV1/paraglider_horned_statue_no_98d9d2d193.nbt"
 hash = "6ce114c45a20d4f33f13a01a10e0d3f95394923a7b4249d8333381eea4b8eed1"
 
 [[files]]
+file = "modernfix/structureCacheV1/paraglider_horned_statue_yes_06d19a24ee.nbt"
+hash = "791271af6f6e82a937b9fbd2c991a5d36d436c1e393466ed0d5d5d96fc800ebe"
+
+[[files]]
+file = "modernfix/structureCacheV1/paraglider_kakariko_village_goddess_statue_c50fb56979.nbt"
+hash = "9793c1aca6ba0583516dccf1e3380e182afdc7a72ba97a84be0c31fed4a99d1d"
+
+[[files]]
 file = "modernfix/structureCacheV1/paraglider_nether_horned_statue_1694e23e27.nbt"
 hash = "dcc32b6f59ebaba382a5e0b5b8d216b2e22e4c56423df6c9239f07200f7104f4"
 
@@ -1941,8 +2869,28 @@ file = "modernfix/structureCacheV1/paraglider_plains_village_horned_statue_f0b72
 hash = "1fb28eae6730d48432ccb65dc933f0836f5ee1b60364401fe9743b37a190aa49"
 
 [[files]]
+file = "modernfix/structureCacheV1/paraglider_taiga_village_horned_statue_2055dd2782.nbt"
+hash = "4ba70e5b479aff5c5c9e2debd934046da1cd0288ea8310bafa825e9c1bb19b71"
+
+[[files]]
+file = "modernfix/structureCacheV1/paraglider_tarrey_town_goddess_statue_b0551f1d7e.nbt"
+hash = "05d9082b6126049a2850671cc2faadddae5cb807e5092ff16c00b3837b8c8c9a"
+
+[[files]]
 file = "modernfix/structureCacheV1/paraglider_underground_horned_statue_e02236120c.nbt"
 hash = "4c8756cc75e494caafb44912d8ba0c7ad02a7f21a9bc169bd4d8d038a08bf6ae"
+
+[[files]]
+file = "modernfix/structureCacheV1/terralith_regular_glacial_interior1_177372923e.nbt"
+hash = "712ebc61003aff552ec05b42ecf25acc881702ed7ea27541c027421eb8d2c0c3"
+
+[[files]]
+file = "modernfix/structureCacheV1/terralith_regular_glacial_interior216_def980a590.nbt"
+hash = "878a9fca26382e292263d849f31cfec6cc90b6b13869a46e7199d79a91765e15"
+
+[[files]]
+file = "modernfix/structureCacheV1/terralith_regular_glacial_interior2_6dedf627f7.nbt"
+hash = "f4cdee8c88361935f255597bf231b7e4673073ef65322e778ea9f82340569459"
 
 [[files]]
 file = "modernfix/structureCacheV1/terralith_underground_old_refinery_8ddf79e31c.nbt"
@@ -1951,6 +2899,14 @@ hash = "0a6aefaeedd7624f903681dc2c3537a07bcfaf7665895679df6b500f2e8f30df"
 [[files]]
 file = "modernfix/structureCacheV1/terralith_underground_smallminingoutpost_9f4d2d29ab.nbt"
 hash = "bd586bfdf8ff382c804faf79c9009a1cbf43167cb2d74a462cc4444417b9dd7e"
+
+[[files]]
+file = "modernfix/structureCacheV1/terralith_village_fortified_start_castle_6f4590aebb.nbt"
+hash = "ea9329fa747f29183f7f4d627f2272358dcf65205bf50fd4f13bfbe6aff58a9e"
+
+[[files]]
+file = "modernfix/structureCacheV1/waystones_village_common_waystone_8018c9c611.nbt"
+hash = "647d5097540d034b72218b43b40dc97a40d9de1141709ba74ac107cfa628ca48"
 
 [[files]]
 file = "mods/ad-astra-structures-overhaul.pw.toml"
